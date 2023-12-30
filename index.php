@@ -1,3 +1,4 @@
+<a href='./index.php?filename=my'>My module</a>
 <?php
 
 highlight_file(__FILE__);
